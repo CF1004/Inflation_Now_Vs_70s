@@ -9,3 +9,5 @@ CPI Inflation Comparison 1970s and 2020s using Excel visualization.
 - On the first Sheet of the workbook (CPI All Items) you will also find some pretty cool Statistics, Standard Deviation, Probabilities, Histograms, and Percentiles
 
 ![Inflation Chart](Inflation_Now_vs_70s.png)
+
+![FedFundsRate Chart](
