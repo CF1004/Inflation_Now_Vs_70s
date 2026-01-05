@@ -11,3 +11,9 @@ CPI Inflation Comparison between the 1970s and 2020s using Excel visualization.
 ![Inflation Chart](Inflation_Now_vs_70s.png)
 
 ![FedFundsRate Chart](Fed_Funds_Now_vs_70s.png)
+
+![Inflation Statistics](Statistics.png)
+
+![Inflation Histograms](Histograms.png)
+
+![Inflation Percentiles](Percentiles.png)
